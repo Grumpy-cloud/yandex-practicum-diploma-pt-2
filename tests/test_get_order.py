@@ -21,3 +21,5 @@ def positive_assert():
 
 def test_get_order_description():
     positive_assert()
+
+# Макаров Сергей, 14-я когорта, 2-я часть дипломного проекта
